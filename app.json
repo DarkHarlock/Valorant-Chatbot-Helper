@@ -1,0 +1,7 @@
+{
+    "name": "Valorant Chatbot Helper",
+    "description": "A simple chatbot friendly API with cusomizable format parameter",
+    "repository": "https://github.com/DarkHarlock/valorant-chatbot-helper",
+    "logo": "https://cdn.jsdelivr.net/gh/DarkHarlock/valorant-chatbot-helper/valorant_logo.png",
+    "keywords": ["valorant", "twitch", "streaming", "chatbot"]
+  }
